@@ -1,0 +1,620 @@
+Course Code,Title,Section,Faculty Full Name,Day,Start Time,End Time,Start_Time_24hr,End_Time_24hr,Days_List,Cr.
+ACT 2111,Financial and Managerial Accounting,B,Israt Jabin,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+ACT 2111,Financial and Managerial Accounting,C,Ishrat Jahan,U,03:11:PM,04:30:PM,1511,1630,['U'],3.0
+ACT 2111,Financial and Managerial Accounting,A,Ishrat Jahan,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+BDS 1201,History of the Emergence of Bangladesh,AC,Al Jamal Mustafa Shindaini,S,08:30:AM,09:50:AM,830,950,['S'],2.0
+BDS 1201,History of the Emergence of Bangladesh,AD,Mabia Momen,U,08:30:AM,09:50:AM,830,950,['U'],2.0
+BDS 1201,History of the Emergence of Bangladesh,AE,Md. Ashraf Aziz Ishrak Fahim,U,01:51:PM,03:10:PM,1351,1510,['U'],2.0
+BDS 1201,History of the Emergence of Bangladesh,AF,Nazmul Huda,S,11:11:AM,12:30:PM,1111,1230,['S'],2.0
+BDS 1201,History of the Emergence of Bangladesh,AG,Nazmul Huda,S,12:31:PM,01:50:PM,1231,1350,['S'],2.0
+BDS 1201,History of the Emergence of Bangladesh,AH,Md. Ashraf Aziz Ishrak Fahim,U,03:11:PM,04:30:PM,1511,1630,['U'],2.0
+BDS 1201,History of the Emergence of Bangladesh,AA,Al Jamal Mustafa Shindaini,S,09:51:AM,11:10:AM,951,1110,['S'],2.0
+BDS 1201,History of the Emergence of Bangladesh,AB,Mabia Momen,U,09:51:AM,11:10:AM,951,1110,['U'],2.0
+BIO 3105,Biology for Engineers,A,Muhammad Sibgatullah Zunnun,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+BIO 3105,Biology for Engineers,B,Hasin Anupama Azhari,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+BIO 3105,Biology for Engineers,C,Hasin Anupama Azhari,S,12:31:PM,01:50:PM,1231,1350,['S'],3.0
+BIO 3105,Biology for Engineers,D,Mobashara Islam,S,01:51:PM,03:10:PM,1351,1510,['S'],3.0
+BIO 3105,Biology for Engineers,E,Nahid Tamanna,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+BIO 3105,Biology for Engineers,F,Mobashara Islam,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+BIO 3105,Biology for Engineers,H,Mobashara Islam,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+BIO 3105,Biology for Engineers,I,Hasin Anupama Azhari,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+BIO 3105,Biology for Engineers,J,Atiq Abrar Rahman,U,12:31:PM,01:50:PM,1231,1350,['U'],3.0
+BIO 3105,Biology for Engineers,K,Atiq Abrar Rahman,U,01:51:PM,03:10:PM,1351,1510,['U'],3.0
+CSE 1110,Introduction to Computer Systems,A,Mohmmad Ali,U,08:30:AM,11:00:AM,830,1100,['U'],1.0
+CSE 1110,Introduction to Computer Systems,B,Hamudi Hasan Sonet,S,08:30:AM,11:00:AM,830,1100,['S'],1.0
+CSE 1110,Introduction to Computer Systems,C,Mohmmad Ali,W,08:30:AM,11:00:AM,830,1100,['W'],1.0
+CSE 1110,Introduction to Computer Systems,D,Shoib Ahmed Shourav,W,11:11:AM,01:40:PM,1111,1340,['W'],1.0
+CSE 1110,Introduction to Computer Systems,E,Shoib Ahmed Shourav,U,11:11:AM,01:40:PM,1111,1340,['U'],1.0
+CSE 1110,Introduction to Computer Systems,F,Md. Tanvir Raihan,S,11:11:AM,01:40:PM,1111,1340,['S'],1.0
+CSE 1110,Introduction to Computer Systems,G,Sahid Hossain Mustakim,T,11:11:AM,01:40:PM,1111,1340,['T'],1.0
+CSE 1110,Introduction to Computer Systems,H,Hamudi Hasan Sonet,T,08:30:AM,11:00:AM,830,1100,['T'],1.0
+CSE 1110,Introduction to Computer Systems,I,Abu Bakar Fahad,T,08:30:AM,11:00:AM,830,1100,['T'],1.0
+CSE 1111,Structured Programming Language,A,Anika Tasnim Rodela,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+CSE 1111,Structured Programming Language,B,Hasan Sarwar,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 1111,Structured Programming Language,C,Anika Tasnim Rodela,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 1111,Structured Programming Language,D,Sabah Ahmed,S,12:31:PM,01:50:PM,1231,1350,['S'],3.0
+CSE 1111,Structured Programming Language,E,Sidratul Tanzila Tasmi,S,01:51:PM,03:10:PM,1351,1510,['S'],3.0
+CSE 1111,Structured Programming Language,F,Nusrat Jahan Tithi,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+CSE 1111,Structured Programming Language,G,Khushnur Binte Jahangir,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 1111,Structured Programming Language,H,Mohammad Nurul Huda,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 1111,Structured Programming Language,J,Shekh. Md. Saifur Rahman,S,01:51:PM,03:10:PM,1351,1510,['S'],3.0
+CSE 1111,Structured Programming Language,K,Sherajul Arifin,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+CSE 1111,Structured Programming Language,I,Sherajul Arifin,S,12:31:PM,01:50:PM,1231,1350,['S'],3.0
+CSE 1111,Structured Programming Language,L,Nusrat Jahan Tithi,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+CSE 1111,Structured Programming Language,M,Md. Benzir Ahmed,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+CSE 1111,Structured Programming Language,N,Nusrat Jahan Tithi,U,12:31:PM,01:50:PM,1231,1350,['U'],3.0
+CSE 1111,Structured Programming Language,O,Mir Moynuddin Ahmed Shibly,U,01:51:PM,03:10:PM,1351,1510,['U'],3.0
+CSE 1111,Structured Programming Language,P,Shekh. Md. Saifur Rahman,U,03:11:PM,04:30:PM,1511,1630,['U'],3.0
+CSE 1111,Structured Programming Language,Q,Shekh. Md. Saifur Rahman,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+CSE 1111,Structured Programming Language,T,Sherajul Arifin,U,01:51:PM,03:10:PM,1351,1510,['U'],3.0
+CSE 1111,Structured Programming Language,U,Sahid Hossain Mustakim,U,03:11:PM,04:30:PM,1511,1630,['U'],3.0
+CSE 1112,Structured Programming Language Laboratory,A,Khushnur Binte Jahangir,S,11:11:AM,01:40:PM,1111,1340,['S'],1.0
+CSE 1112,Structured Programming Language Laboratory,B,Nabila Sabrin Sworna,T,11:11:AM,01:40:PM,1111,1340,['T'],1.0
+CSE 1112,Structured Programming Language Laboratory,C,Anika Tasnim Rodela,U,11:11:AM,01:40:PM,1111,1340,['U'],1.0
+CSE 1112,Structured Programming Language Laboratory,D,Nabila Sabrin Sworna,S,11:11:AM,01:40:PM,1111,1340,['S'],1.0
+CSE 1112,Structured Programming Language Laboratory,E,Asnuva Tanvin,U,11:11:AM,01:40:PM,1111,1340,['U'],1.0
+CSE 1112,Structured Programming Language Laboratory,F,Anika Tasnim Rodela,U,08:30:AM,11:00:AM,830,1100,['U'],1.0
+CSE 1112,Structured Programming Language Laboratory,G,Mohammad Mirazur Rahman,W,11:11:AM,01:40:PM,1111,1340,['W'],1.0
+CSE 1112,Structured Programming Language Laboratory,H,Miftahul Sheikh,W,11:11:AM,01:40:PM,1111,1340,['W'],1.0
+CSE 1112,Structured Programming Language Laboratory,I,Abu Bakar Fahad,T,11:11:AM,01:40:PM,1111,1340,['T'],1.0
+CSE 1112,Structured Programming Language Laboratory,J,Minhajul Bashir,U,08:30:AM,11:00:AM,830,1100,['U'],1.0
+CSE 1112,Structured Programming Language Laboratory,K,Sidratul Tanzila Tasmi,S,08:30:AM,11:00:AM,830,1100,['S'],1.0
+CSE 1112,Structured Programming Language Laboratory,L,Sidratul Tanzila Tasmi,T,08:30:AM,11:00:AM,830,1100,['T'],1.0
+CSE 1112,Structured Programming Language Laboratory,M,Sahid Hossain Mustakim,U,08:30:AM,11:00:AM,830,1100,['U'],1.0
+CSE 1112,Structured Programming Language Laboratory,N,Minhajul Bashir,W,08:30:AM,11:00:AM,830,1100,['W'],1.0
+CSE 1112,Structured Programming Language Laboratory,O,Sherajul Arifin,S,08:30:AM,11:00:AM,830,1100,['S'],1.0
+CSE 1112,Structured Programming Language Laboratory,P,Sherajul Arifin,T,08:30:AM,11:00:AM,830,1100,['T'],1.0
+CSE 1112,Structured Programming Language Laboratory,Q,Sahid Hossain Mustakim,W,08:30:AM,11:00:AM,830,1100,['W'],1.0
+CSE 1115,Object Oriented Programming,B,Md. Zunaid-Ul-Alam,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 1115,Object Oriented Programming,C,Rakibul Hasan Rafi,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 1115,Object Oriented Programming,D,Md. Zunaid-Ul-Alam,S,12:31:PM,01:50:PM,1231,1350,['S'],3.0
+CSE 1115,Object Oriented Programming,G,Tahsin Wahid,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+CSE 1115,Object Oriented Programming,H,Md. Zunaid-Ul-Alam,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+CSE 1115,Object Oriented Programming,I,Md. Rahad Khan,U,12:31:PM,01:50:PM,1231,1350,['U'],3.0
+CSE 1115,Object Oriented Programming,K,Abdullah Ibne Masud Mahi,U,03:11:PM,04:30:PM,1511,1630,['U'],3.0
+CSE 1115,Object Oriented Programming,E,Md. Romizul Islam,S,01:51:PM,03:10:PM,1351,1510,['S'],3.0
+CSE 1115,Object Oriented Programming,F,Asnuva Tanvin,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+CSE 1115,Object Oriented Programming,A,Md. Tanvir Raihan,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+CSE 1115,Object Oriented Programming,J,Md. Rahad Khan,U,01:51:PM,03:10:PM,1351,1510,['U'],3.0
+CSE 1116,Object Oriented Programming Laboratory,A,Tasmia Binte Sogir,T,11:11:AM,01:40:PM,1111,1340,['T'],1.0
+CSE 1116,Object Oriented Programming Laboratory,B,Md. Tanvir Raihan,T,02:00:PM,04:30:PM,1400,1630,['T'],1.0
+CSE 1116,Object Oriented Programming Laboratory,C,Rakibul Hasan Rafi,W,02:00:PM,04:30:PM,1400,1630,['W'],1.0
+CSE 1116,Object Oriented Programming Laboratory,D,Rakibul Hasan Rafi,U,08:30:AM,11:00:AM,830,1100,['U'],1.0
+CSE 1116,Object Oriented Programming Laboratory,E,Md. Romizul Islam,S,08:30:AM,11:00:AM,830,1100,['S'],1.0
+CSE 1116,Object Oriented Programming Laboratory,F,Md. Zunaid-Ul-Alam,U,02:00:PM,04:30:PM,1400,1630,['U'],1.0
+CSE 1116,Object Oriented Programming Laboratory,G,Md. Zunaid-Ul-Alam,W,08:30:AM,11:00:AM,830,1100,['W'],1.0
+CSE 1325,Digital Logic Design,A,Asnuva Tanvin,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+CSE 1325,Digital Logic Design,B,Anudwaipaon Antu,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 1325,Digital Logic Design,C,Anudwaipaon Antu,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 1325,Digital Logic Design,E,Riasat Azim,S,01:51:PM,03:10:PM,1351,1510,['S'],3.0
+CSE 1325,Digital Logic Design,F,Md. Benzir Ahmed,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+CSE 1325,Digital Logic Design,G,Shahriar Mahmud,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+CSE 1325,Digital Logic Design,H,Riasat Azim,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+CSE 1325,Digital Logic Design,I,Md. Benzir Ahmed,U,12:31:PM,01:50:PM,1231,1350,['U'],3.0
+CSE 1325,Digital Logic Design,J,Tasmia Binte Sogir,U,01:51:PM,03:10:PM,1351,1510,['U'],3.0
+CSE 1325,Digital Logic Design,K,Tasmia Binte Sogir,U,03:11:PM,04:30:PM,1511,1630,['U'],3.0
+CSE 1325,Digital Logic Design,D,Asnuva Tanvin,S,12:31:PM,01:50:PM,1231,1350,['S'],3.0
+CSE 1326,Digital Logic Design Laboratory,A,Asnuva Tanvin,W,11:11:AM,01:40:PM,1111,1340,['W'],1.0
+CSE 1326,Digital Logic Design Laboratory,B,Shahriar Mahmud,S,11:11:AM,01:40:PM,1111,1340,['S'],1.0
+CSE 1326,Digital Logic Design Laboratory,C,Shahriar Mahmud,U,11:11:AM,01:40:PM,1111,1340,['U'],1.0
+CSE 1326,Digital Logic Design Laboratory,D,Sayeem Been Zaman,S,08:30:AM,11:00:AM,830,1100,['S'],1.0
+CSE 1326,Digital Logic Design Laboratory,E,Sayeem Been Zaman,T,02:00:PM,04:30:PM,1400,1630,['T'],1.0
+CSE 1326,Digital Logic Design Laboratory,F,Fahim Hafiz,U,02:00:PM,04:30:PM,1400,1630,['U'],1.0
+CSE 1326,Digital Logic Design Laboratory,G,Fahim Hafiz,W,02:00:PM,04:30:PM,1400,1630,['W'],1.0
+CSE 1326,Digital Logic Design Laboratory,H,Tasmia Binte Sogir,T,08:30:AM,11:00:AM,830,1100,['T'],1.0
+CSE 2118,Advanced Object Oriented Programming Laboratory,A,Abdus Sayef Reyadh,U,11:11:AM,01:40:PM,1111,1340,['U'],1.0
+CSE 2118,Advanced Object Oriented Programming Laboratory,B,Mohammad Mirazur Rahman,T,11:11:AM,01:40:PM,1111,1340,['T'],1.0
+CSE 2118,Advanced Object Oriented Programming Laboratory,C,Ashraful Kabir,S,11:11:AM,01:40:PM,1111,1340,['S'],1.0
+CSE 2118,Advanced Object Oriented Programming Laboratory,E,Md. Enamul Haque,T,08:30:AM,11:00:AM,830,1100,['T'],1.0
+CSE 2118,Advanced Object Oriented Programming Laboratory,F,Faria Tabassum,W,02:00:PM,04:30:PM,1400,1630,['W'],1.0
+CSE 2118,Advanced Object Oriented Programming Laboratory,G,Miftahul Sheikh,T,02:00:PM,04:30:PM,1400,1630,['T'],1.0
+CSE 2118,Advanced Object Oriented Programming Laboratory,H,Tonmoy Saha,U,08:30:AM,11:00:AM,830,1100,['U'],1.0
+CSE 2118,Advanced Object Oriented Programming Laboratory,I,Raiyan Janik Monir,T,02:00:PM,04:30:PM,1400,1630,['T'],1.0
+CSE 2118,Advanced Object Oriented Programming Laboratory,J,Kazi Abdun Noor,U,02:00:PM,04:30:PM,1400,1630,['U'],1.0
+CSE 2118,Advanced Object Oriented Programming Laboratory,K,Raiyan Janik Monir,W,08:30:AM,11:00:AM,830,1100,['W'],1.0
+CSE 2118,Advanced Object Oriented Programming Laboratory,D,Kazi Abdun Noor,W,11:11:AM,01:40:PM,1111,1340,['W'],1.0
+CSE 2213,Discrete Mathematics,A,Faria Tabassum,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+CSE 2213,Discrete Mathematics,D,Charles Aunkan Gomes,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 2213,Discrete Mathematics,E,Nusaiba Zaman Manifa,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 2213,Discrete Mathematics,F,Rakib Ahsan,S,01:51:PM,03:10:PM,1351,1510,['S'],3.0
+CSE 2213,Discrete Mathematics,B,Faria Tabassum,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+CSE 2213,Discrete Mathematics,C,Charles Aunkan Gomes,U,01:51:PM,03:10:PM,1351,1510,['U'],3.0
+CSE 2215,Data Structure and Algorithms I,AF,Md. Abul Kashem Mia,T,11:11:AM,01:40:PM,1111,1340,['T'],3.0
+CSE 2215,Data Structure and Algorithms I,A,Rubaiya Rahtin Khan,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+CSE 2215,Data Structure and Algorithms I,B,Asif Abrar,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 2215,Data Structure and Algorithms I,C,Hafijul Hoque Chowdhury,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 2215,Data Structure and Algorithms I,D,Asif Abrar,S,12:31:PM,01:50:PM,1231,1350,['S'],3.0
+CSE 2215,Data Structure and Algorithms I,AA,Asif Abrar,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+CSE 2215,Data Structure and Algorithms I,AB,Md. Tarek Hasan,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+CSE 2215,Data Structure and Algorithms I,AC,Shahil Yasar Haque,U,12:31:PM,01:50:PM,1231,1350,['U'],3.0
+CSE 2215,Data Structure and Algorithms I,AD,Siana Rizwan,U,01:51:PM,03:10:PM,1351,1510,['U'],3.0
+CSE 2215,Data Structure and Algorithms I,AE,Siana Rizwan,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+CSE 2215,Data Structure and Algorithms I,E,Mr. Md Siam,S,01:51:PM,03:10:PM,1351,1510,['S'],3.0
+CSE 2215,Data Structure and Algorithms I,F,Mr. Md Siam,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+CSE 2215,Data Structure and Algorithms I,G,Md. Irfanur Rahman Rafio,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 2215,Data Structure and Algorithms I,H,Md. Sajjad Hossain,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 2215,Data Structure and Algorithms I,I,Hafijul Hoque Chowdhury,S,12:31:PM,01:50:PM,1231,1350,['S'],3.0
+CSE 2215,Data Structure and Algorithms I,J,Md. Irfanur Rahman Rafio,S,01:51:PM,03:10:PM,1351,1510,['S'],3.0
+CSE 2215,Data Structure and Algorithms I,K,Pranta Biswas,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+CSE 2215,Data Structure and Algorithms I,L,Fairoz Anika,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 2215,Data Structure and Algorithms I,M,Siana Rizwan,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 2215,Data Structure and Algorithms I,N,Azizur Rahman Anik,S,12:31:PM,01:50:PM,1231,1350,['S'],3.0
+CSE 2215,Data Structure and Algorithms I,O,Pranta Biswas,S,01:51:PM,03:10:PM,1351,1510,['S'],3.0
+CSE 2215,Data Structure and Algorithms I,Q,Rubaiya Rahtin Khan,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+CSE 2215,Data Structure and Algorithms I,S,Rubaiya Rahtin Khan,U,12:31:PM,01:50:PM,1231,1350,['U'],3.0
+CSE 2215,Data Structure and Algorithms I,R,Rakib Kibria,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+CSE 2215,Data Structure and Algorithms I,T,Rakib Kibria,U,01:51:PM,03:10:PM,1351,1510,['U'],3.0
+CSE 2215,Data Structure and Algorithms I,U,Rakib Kibria,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+CSE 2215,Data Structure and Algorithms I,W,Abu Bakar Fahad,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+CSE 2215,Data Structure and Algorithms I,Y,Md. Tarek Hasan,U,01:51:PM,03:10:PM,1351,1510,['U'],3.0
+CSE 2215,Data Structure and Algorithms I,Z,Md. Tarek Hasan,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+CSE 2215,Data Structure and Algorithms I,P,Mohammad Nurul Huda,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+CSE 2216,Data Structure and Algorithms I Laboratory,V,Raiyan Janik Monir,T,08:30:AM,11:00:AM,830,1100,['T'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,A,Siana Rizwan,S,08:30:AM,11:00:AM,830,1100,['S'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,AA,Pranta Biswas,W,02:00:PM,04:30:PM,1400,1630,['W'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,AB,Md. Mushfiqul Haque Omi,W,08:30:AM,11:00:AM,830,1100,['W'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,AC,Raiyan Janik Monir,S,11:11:AM,01:40:PM,1111,1340,['S'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,AD,Raiyan Janik Monir,W,02:00:PM,04:30:PM,1400,1630,['W'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,AE,Hafijul Hoque Chowdhury,W,08:30:AM,11:00:AM,830,1100,['W'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,AF,Md. Tarek Hasan,S,02:00:PM,04:30:PM,1400,1630,['S'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,AG,Abu Bakar Fahad,W,02:00:PM,04:30:PM,1400,1630,['W'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,AH,Abu Bakar Fahad,S,02:00:PM,04:30:PM,1400,1630,['S'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,B,Rakib Kibria,S,11:11:AM,01:40:PM,1111,1340,['S'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,C,Asif Ahmed Utsa,S,08:30:AM,11:00:AM,830,1100,['S'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,D,Shekh. Md. Saifur Rahman,S,11:11:AM,01:40:PM,1111,1340,['S'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,E,Sahid Hossain Mustakim,S,08:30:AM,11:00:AM,830,1100,['S'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,F,Asif Abrar,W,11:11:AM,01:40:PM,1111,1340,['W'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,G,Hafijul Hoque Chowdhury,T,08:30:AM,11:00:AM,830,1100,['T'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,H,Md. Irfanur Rahman Rafio,W,02:00:PM,04:30:PM,1400,1630,['W'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,I,Md. Mushfiqul Haque Omi,U,02:00:PM,04:30:PM,1400,1630,['U'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,J,Md. Rahad Khan,U,08:30:AM,11:00:AM,830,1100,['U'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,K,Asif Abrar,U,11:11:AM,01:40:PM,1111,1340,['U'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,M,Md. Enamul Haque,U,08:30:AM,11:00:AM,830,1100,['U'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,N,Md. Irfanur Rahman Rafio,U,11:11:AM,01:40:PM,1111,1340,['U'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,O,Pranta Biswas,U,02:00:PM,04:30:PM,1400,1630,['U'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,P,Abu Bakar Fahad,U,02:00:PM,04:30:PM,1400,1630,['U'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,Q,Md. Shadman Aadeeb,T,08:30:AM,11:00:AM,830,1100,['T'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,L,Mr. Md Siam,U,02:00:PM,04:30:PM,1400,1630,['U'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,R,Md. Shadman Aadeeb,T,02:00:PM,04:30:PM,1400,1630,['T'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,S,Asif Ahmed Utsa,T,08:30:AM,11:00:AM,830,1100,['T'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,T,Sajid Ahmed Chowdhury,S,02:00:PM,04:30:PM,1400,1630,['S'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,U,Siana Rizwan,T,02:00:PM,04:30:PM,1400,1630,['T'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,W,Rakib Kibria,T,11:11:AM,01:40:PM,1111,1340,['T'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,X,Sajid Ahmed Chowdhury,T,02:00:PM,04:30:PM,1400,1630,['T'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,Y,Md. Rahad Khan,W,08:30:AM,11:00:AM,830,1100,['W'],1.0
+CSE 2216,Data Structure and Algorithms I Laboratory,Z,Mr. Md Siam,W,11:11:AM,01:40:PM,1111,1340,['W'],1.0
+CSE 2217,Data Structure and Algorithms II,A,Umama Rahman,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+CSE 2217,Data Structure and Algorithms II,B,Mohammad Mirazur Rahman,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 2217,Data Structure and Algorithms II,C,Tahmid Mosaddeque,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 2217,Data Structure and Algorithms II,D,Sayem Shahad,S,12:31:PM,01:50:PM,1231,1350,['S'],3.0
+CSE 2217,Data Structure and Algorithms II,E,Mohammad Mirazur Rahman,S,01:51:PM,03:10:PM,1351,1510,['S'],3.0
+CSE 2217,Data Structure and Algorithms II,F,Mr. Md Siam,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+CSE 2217,Data Structure and Algorithms II,G,Pranta Biswas,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+CSE 2217,Data Structure and Algorithms II,H,Umama Rahman,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+CSE 2217,Data Structure and Algorithms II,I,Rakibul Hasan Rafi,U,12:31:PM,01:50:PM,1231,1350,['U'],3.0
+CSE 2217,Data Structure and Algorithms II,J,Asif Ahmed Utsa,U,01:51:PM,03:10:PM,1351,1510,['U'],3.0
+CSE 2217,Data Structure and Algorithms II,K,Umama Rahman,U,03:11:PM,04:30:PM,1511,1630,['U'],3.0
+CSE 2217,Data Structure and Algorithms II,L,Charles Aunkan Gomes,U,03:11:PM,04:30:PM,1511,1630,['U'],3.0
+CSE 2218,Data Structure and Algorithms II Laboratory,A,Md. Muhyminul Haque,S,08:30:AM,11:00:AM,830,1100,['S'],1.0
+CSE 2218,Data Structure and Algorithms II Laboratory,B,Humaira Anzum Neha,S,11:11:AM,01:40:PM,1111,1340,['S'],1.0
+CSE 2218,Data Structure and Algorithms II Laboratory,C,Tahmid Mosaddeque,U,08:30:AM,11:00:AM,830,1100,['U'],1.0
+CSE 2218,Data Structure and Algorithms II Laboratory,D,S M Jishanul Islam,U,11:11:AM,01:40:PM,1111,1340,['U'],1.0
+CSE 2218,Data Structure and Algorithms II Laboratory,E,Jerin Hasan Priya,U,02:00:PM,04:30:PM,1400,1630,['U'],1.0
+CSE 2218,Data Structure and Algorithms II Laboratory,F,Md. Muhyminul Haque,T,08:30:AM,11:00:AM,830,1100,['T'],1.0
+CSE 2218,Data Structure and Algorithms II Laboratory,G,Umama Rahman,T,11:11:AM,01:40:PM,1111,1340,['T'],1.0
+CSE 2218,Data Structure and Algorithms II Laboratory,H,Humaira Anzum Neha,T,02:00:PM,04:30:PM,1400,1630,['T'],1.0
+CSE 2218,Data Structure and Algorithms II Laboratory,I,Miftahul Sheikh,W,08:30:AM,11:00:AM,830,1100,['W'],1.0
+CSE 2218,Data Structure and Algorithms II Laboratory,J,Tahmid Mosaddeque,W,11:11:AM,01:40:PM,1111,1340,['W'],1.0
+CSE 2218,Data Structure and Algorithms II Laboratory,K,Shahil Yasar Haque,W,02:00:PM,04:30:PM,1400,1630,['W'],1.0
+CSE 2218,Data Structure and Algorithms II Laboratory,L,S M Jishanul Islam,S,11:11:AM,01:40:PM,1111,1340,['S'],1.0
+CSE 2218,Data Structure and Algorithms II Laboratory,M,A.H.M. Osama Haque,S,02:00:PM,04:30:PM,1400,1630,['S'],1.0
+CSE 2218,Data Structure and Algorithms II Laboratory,N,Jerin Hasan Priya,T,02:00:PM,04:30:PM,1400,1630,['T'],1.0
+CSE 2218,Data Structure and Algorithms II Laboratory,O,Jerin Hasan Priya,W,02:00:PM,04:30:PM,1400,1630,['W'],1.0
+CSE 2233,Theory of Computation,A,Minhajul Bashir,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+CSE 2233,Theory of Computation,B,Nabila Sabrin Sworna,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 2233,Theory of Computation,C,Minhajul Bashir,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 2233,Theory of Computation,D,Asif Ahmed Utsa,S,01:51:PM,03:10:PM,1351,1510,['S'],3.0
+CSE 2233,Theory of Computation,E,Asif Ahmed Utsa,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+CSE 2233,Theory of Computation,F,Rizvan Jawad Ruhan,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+CSE 2233,Theory of Computation,G,Nabila Sabrin Sworna,U,01:51:PM,03:10:PM,1351,1510,['U'],3.0
+CSE 2233,Theory of Computation,H,Nabila Sabrin Sworna,U,03:11:PM,04:30:PM,1511,1630,['U'],3.0
+CSE 3313,Computer Architecture,A,Humaira Anzum Neha,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 3313,Computer Architecture,B,Shoib Ahmed Shourav,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 3313,Computer Architecture,C,Shoib Ahmed Shourav,S,12:31:PM,01:50:PM,1231,1350,['S'],3.0
+CSE 3313,Computer Architecture,D,Shoib Ahmed Shourav,S,01:51:PM,03:10:PM,1351,1510,['S'],3.0
+CSE 3313,Computer Architecture,E,Tahsin Wahid,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+CSE 3313,Computer Architecture,F,Shoib Ahmed Shourav,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+CSE 3313,Computer Architecture,G,Humaira Anzum Neha,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+CSE 3313,Computer Architecture,H,Sidratul Tanzila Tasmi,U,12:31:PM,01:50:PM,1231,1350,['U'],3.0
+CSE 3313,Computer Architecture,I,Sidratul Tanzila Tasmi,U,01:51:PM,03:10:PM,1351,1510,['U'],3.0
+CSE 3313,Computer Architecture,J,Humaira Anzum Neha,U,03:11:PM,04:30:PM,1511,1630,['U'],3.0
+CSE 3411,System Analysis and Design,A,Sidratul Muntaha,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+CSE 3411,System Analysis and Design,B,Tasmin Sanjida,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 3411,System Analysis and Design,C,Tahsin Wahid,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 3411,System Analysis and Design,D,Tasmin Sanjida,S,12:31:PM,01:50:PM,1231,1350,['S'],3.0
+CSE 3411,System Analysis and Design,E,Tasmin Sanjida,S,01:51:PM,03:10:PM,1351,1510,['S'],3.0
+CSE 3411,System Analysis and Design,F,Sidratul Muntaha,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+CSE 3411,System Analysis and Design,G,Nusaiba Zaman Manifa,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+CSE 3411,System Analysis and Design,H,Md. Romizul Islam,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+CSE 3411,System Analysis and Design,I,Suman Ahmmed,U,12:31:PM,01:50:PM,1231,1350,['U'],3.0
+CSE 3411,System Analysis and Design,J,Nusaiba Zaman Manifa,U,01:51:PM,03:10:PM,1351,1510,['U'],3.0
+CSE 3411,System Analysis and Design,K,Farhan Anan Himu,U,03:11:PM,04:30:PM,1511,1630,['U'],3.0
+CSE 3411,System Analysis and Design,L,Tasmin Sanjida,U,03:11:PM,04:30:PM,1511,1630,['U'],3.0
+CSE 3412,System Analysis and Design Laboratory,A,Md. Mainul Islam,S,08:30:AM,11:00:AM,830,1100,['S'],1.0
+CSE 3412,System Analysis and Design Laboratory,B,Mohammed Jawwadul Islam,S,11:11:AM,01:40:PM,1111,1340,['S'],1.0
+CSE 3412,System Analysis and Design Laboratory,C,Tahsin Wahid,U,08:30:AM,11:00:AM,830,1100,['U'],1.0
+CSE 3412,System Analysis and Design Laboratory,D,Tasmin Sanjida,U,11:11:AM,01:40:PM,1111,1340,['U'],1.0
+CSE 3412,System Analysis and Design Laboratory,E,Suman Ahmmed,U,02:00:PM,04:30:PM,1400,1630,['U'],1.0
+CSE 3412,System Analysis and Design Laboratory,F,Sidratul Muntaha,T,08:30:AM,11:00:AM,830,1100,['T'],1.0
+CSE 3412,System Analysis and Design Laboratory,G,Md. Mainul Islam,T,11:11:AM,01:40:PM,1111,1340,['T'],1.0
+CSE 3412,System Analysis and Design Laboratory,H,Mohammed Jawwadul Islam,T,02:00:PM,04:30:PM,1400,1630,['T'],1.0
+CSE 3412,System Analysis and Design Laboratory,I,Sidratul Muntaha,W,08:30:AM,11:00:AM,830,1100,['W'],1.0
+CSE 3412,System Analysis and Design Laboratory,J,Mohammed Jawwadul Islam,W,11:11:AM,01:40:PM,1111,1340,['W'],1.0
+CSE 3412,System Analysis and Design Laboratory,K,Md. Mainul Islam,W,02:00:PM,04:30:PM,1400,1630,['W'],1.0
+CSE 3412,System Analysis and Design Laboratory,L,Farhan Anan Himu,S,02:00:PM,04:30:PM,1400,1630,['S'],1.0
+CSE 3513,Computer Networks,A,Rizvan Jawad Ruhan,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+CSE 3513,Computer Networks,B,Md. Abdur Razzak,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 3513,Computer Networks,C,Md. Abdur Razzak,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 3513,Computer Networks,D,Md. Abdur Razzak,S,12:31:PM,01:50:PM,1231,1350,['S'],3.0
+CSE 3513,Computer Networks,E,Rakib Ahsan,S,01:51:PM,03:10:PM,1351,1510,['S'],3.0
+CSE 3513,Computer Networks,F,Rizvan Jawad Ruhan,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+CSE 3513,Computer Networks,G,Md. Mushfiqul Haque Omi,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+CSE 3513,Computer Networks,H,Md. Mushfiqul Haque Omi,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+CSE 3513,Computer Networks,I,Md. Abdur Razzak,U,12:31:PM,01:50:PM,1231,1350,['U'],3.0
+CSE 3513,Computer Networks,J,Rakib Ahsan,U,01:51:PM,03:10:PM,1351,1510,['U'],3.0
+CSE 3513,Computer Networks,K,Rizvan Jawad Ruhan,U,03:11:PM,04:30:PM,1511,1630,['U'],3.0
+CSE 3514,Computer Networks Laboratory,A,Md. Abdur Razzak,W,08:30:AM,11:00:AM,830,1100,['W'],1.0
+CSE 3514,Computer Networks Laboratory,B,Md. Mushfiqul Haque Omi,S,08:30:AM,11:00:AM,830,1100,['S'],1.0
+CSE 3514,Computer Networks Laboratory,C,Md. Mushfiqul Haque Omi,U,08:30:AM,11:00:AM,830,1100,['U'],1.0
+CSE 3514,Computer Networks Laboratory,D,Md. Abdur Razzak,T,08:30:AM,11:00:AM,830,1100,['T'],1.0
+CSE 3514,Computer Networks Laboratory,E,Rakib Ahsan,S,11:11:AM,01:40:PM,1111,1340,['S'],1.0
+CSE 3514,Computer Networks Laboratory,F,Rakib Ahsan,T,11:11:AM,01:40:PM,1111,1340,['T'],1.0
+CSE 3514,Computer Networks Laboratory,G,Rakib Ahsan,W,11:11:AM,01:40:PM,1111,1340,['W'],1.0
+CSE 3514,Computer Networks Laboratory,H,Md. Abdur Razzak,U,11:11:AM,01:40:PM,1111,1340,['U'],1.0
+CSE 3521,Compiler Design,A,Faria Tabassum,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+CSE 3521,Compiler Design,B,Tahmid Mosaddeque,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 3521,Compiler Design,C,Faria Tabassum,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 3521,Compiler Design,D,Tahmid Mosaddeque,S,12:31:PM,01:50:PM,1231,1350,['S'],3.0
+CSE 3521,Compiler Design,E,Tahmid Mosaddeque,S,01:51:PM,03:10:PM,1351,1510,['S'],3.0
+CSE 3521,Compiler Design,F,Sayem Shahad,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+CSE 3521,Compiler Design,G,Sayem Shahad,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+CSE 3521,Compiler Design,H,Sayem Shahad,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+CSE 3522,Compiler Design Laboratory,A,Faria Tabassum,W,11:11:AM,01:40:PM,1111,1340,['W'],1.0
+CSE 3522,Compiler Design Laboratory,B,Tahmid Mosaddeque,U,11:11:AM,01:40:PM,1111,1340,['U'],1.0
+CSE 3522,Compiler Design Laboratory,C,Tahmid Mosaddeque,T,11:11:AM,01:40:PM,1111,1340,['T'],1.0
+CSE 3522,Compiler Design Laboratory,D,Sayem Shahad,S,02:00:PM,04:30:PM,1400,1630,['S'],1.0
+CSE 3522,Compiler Design Laboratory,E,Sayem Shahad,T,02:00:PM,04:30:PM,1400,1630,['T'],1.0
+CSE 3522,Compiler Design Laboratory,F,Sayem Shahad,W,02:00:PM,04:30:PM,1400,1630,['W'],1.0
+CSE 3613,Operating System,A,Abdus Sayef Reyadh,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 3613,Operating System,B,Md. Abdur Razzak,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 3613,Operating System,C,Abdus Sayef Reyadh,S,12:31:PM,01:50:PM,1231,1350,['S'],3.0
+CSE 3613,Operating System,D,Md. Abdur Razzak,S,01:51:PM,03:10:PM,1351,1510,['S'],3.0
+CSE 3613,Operating System,E,Sajid Ahmed Chowdhury,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+CSE 3613,Operating System,F,Md. Sajjad Hossain,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+CSE 3613,Operating System,G,Md. Sajjad Hossain,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+CSE 3613,Operating System,H,Sajid Ahmed Chowdhury,U,12:31:PM,01:50:PM,1231,1350,['U'],3.0
+CSE 3613,Operating System,I,Md. Sajjad Hossain,U,01:51:PM,03:10:PM,1351,1510,['U'],3.0
+CSE 3613,Operating System,J,Abdus Sayef Reyadh,U,03:11:PM,04:30:PM,1511,1630,['U'],3.0
+CSE 3614,Operating System Laboratory,A,Md. Abdur Razzak,T,11:11:AM,01:40:PM,1111,1340,['T'],1.0
+CSE 3614,Operating System Laboratory,B,Abdus Sayef Reyadh,W,11:11:AM,01:40:PM,1111,1340,['W'],1.0
+CSE 3614,Operating System Laboratory,C,Md. Sajjad Hossain,S,02:00:PM,04:30:PM,1400,1630,['S'],1.0
+CSE 3614,Operating System Laboratory,D,Md. Sajjad Hossain,T,02:00:PM,04:30:PM,1400,1630,['T'],1.0
+CSE 3614,Operating System Laboratory,E,Sajid Ahmed Chowdhury,U,08:30:AM,11:00:AM,830,1100,['U'],1.0
+CSE 3614,Operating System Laboratory,F,Sajid Ahmed Chowdhury,W,02:00:PM,04:30:PM,1400,1630,['W'],1.0
+CSE 3713,Database Management System,A,Sajid Ahmed Chowdhury,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+CSE 3713,Database Management System,B,Sanjida Ferdous,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 3713,Database Management System,C,Suman Ahmmed,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 3713,Database Management System,D,Sanjida Ferdous,S,12:31:PM,01:50:PM,1231,1350,['S'],3.0
+CSE 3713,Database Management System,E,Suman Ahmmed,S,01:51:PM,03:10:PM,1351,1510,['S'],3.0
+CSE 3713,Database Management System,F,Sajid Ahmed Chowdhury,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+CSE 3713,Database Management System,G,Sanjida Ferdous,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+CSE 3713,Database Management System,H,Suman Ahmmed,U,12:31:PM,01:50:PM,1231,1350,['U'],3.0
+CSE 3713,Database Management System,I,Sanjida Ferdous,U,01:51:PM,03:10:PM,1351,1510,['U'],3.0
+CSE 3713,Database Management System,J,Sajid Ahmed Chowdhury,U,03:11:PM,04:30:PM,1511,1630,['U'],3.0
+CSE 3714,Database Management System Laboratory,A,Sajid Ahmed Chowdhury,W,08:30:AM,11:00:AM,830,1100,['W'],1.0
+CSE 3714,Database Management System Laboratory,B,Suman Ahmmed,T,08:30:AM,11:00:AM,830,1100,['T'],1.0
+CSE 3714,Database Management System Laboratory,C,Sanjida Ferdous,S,08:30:AM,11:00:AM,830,1100,['S'],1.0
+CSE 3714,Database Management System Laboratory,D,Sanjida Ferdous,T,11:11:AM,01:40:PM,1111,1340,['T'],1.0
+CSE 3714,Database Management System Laboratory,E,Suman Ahmmed,W,11:11:AM,01:40:PM,1111,1340,['W'],1.0
+CSE 3714,Database Management System Laboratory,F,Suman Ahmmed,T,02:00:PM,04:30:PM,1400,1630,['T'],1.0
+CSE 3714,Database Management System Laboratory,G,Sanjida Ferdous,W,02:00:PM,04:30:PM,1400,1630,['W'],1.0
+CSE 3714,Database Management System Laboratory,H,Sajid Ahmed Chowdhury,U,08:30:AM,11:00:AM,830,1100,['U'],1.0
+CSE 3714,Database Management System Laboratory,I,Sajid Ahmed Chowdhury,T,02:00:PM,04:30:PM,1400,1630,['T'],1.0
+CSE 3885,Software Engineering,A,A.H.M. Osama Haque,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 3885,Software Engineering,B,A.H.M. Osama Haque,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 3885,Software Engineering,C,A.H.M. Osama Haque,S,12:31:PM,01:50:PM,1231,1350,['S'],3.0
+CSE 3885,Software Engineering,D,Md. Zunaid-Ul-Alam,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+CSE 3885,Software Engineering,E,Md. Zunaid-Ul-Alam,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+CSE 3885,Software Engineering,F,Md. Zunaid-Ul-Alam,U,12:31:PM,01:50:PM,1231,1350,['U'],3.0
+CSE 4311,Advanced Computer Architecture,A,Md. Enamul Haque,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+CSE 4311,Advanced Computer Architecture,B,Md. Enamul Haque,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 4311,Advanced Computer Architecture,C,Md. Enamul Haque,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 4311,Advanced Computer Architecture,D,Md. Enamul Haque,S,12:31:PM,01:50:PM,1231,1350,['S'],3.0
+CSE 4311,Advanced Computer Architecture,E,Tonmoy Saha,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+CSE 4311,Advanced Computer Architecture,F,Tonmoy Saha,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+CSE 4311,Advanced Computer Architecture,G,Tonmoy Saha,U,12:31:PM,01:50:PM,1231,1350,['U'],3.0
+CSE 4411,Artificial Intelligence,A,Jannatun Noor Mukta,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+CSE 4411,Artificial Intelligence,B,Jannatun Noor Mukta,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 4411,Artificial Intelligence,C,Jannatun Noor Mukta,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 4411,Artificial Intelligence,D,Jannatun Noor Mukta,S,12:31:PM,01:50:PM,1231,1350,['S'],3.0
+CSE 4411,Artificial Intelligence,E,Jannatun Noor Mukta,S,01:51:PM,03:10:PM,1351,1510,['S'],3.0
+CSE 4411,Artificial Intelligence,F,Shihab Ahmed,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+CSE 4411,Artificial Intelligence,G,Shihab Ahmed,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+CSE 4411,Artificial Intelligence,H,Shihab Ahmed,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+CSE 4411,Artificial Intelligence,I,Shihab Ahmed,U,12:31:PM,01:50:PM,1231,1350,['U'],3.0
+CSE 4411,Artificial Intelligence,J,Shihab Ahmed,U,01:51:PM,03:10:PM,1351,1510,['U'],3.0
+CSE 4411,Artificial Intelligence,K,Shihab Ahmed,U,03:11:PM,04:30:PM,1511,1630,['U'],3.0
+CSE 4412,Artificial Intelligence Laboratory,A,Jannatun Noor Mukta,W,08:30:AM,11:00:AM,830,1100,['W'],1.0
+CSE 4412,Artificial Intelligence Laboratory,B,Jannatun Noor Mukta,T,08:30:AM,11:00:AM,830,1100,['T'],1.0
+CSE 4412,Artificial Intelligence Laboratory,C,Shihab Ahmed,S,08:30:AM,11:00:AM,830,1100,['S'],1.0
+CSE 4412,Artificial Intelligence Laboratory,D,Shihab Ahmed,U,08:30:AM,11:00:AM,830,1100,['U'],1.0
+CSE 4412,Artificial Intelligence Laboratory,E,Jannatun Noor Mukta,U,11:11:AM,01:40:PM,1111,1340,['U'],1.0
+CSE 4412,Artificial Intelligence Laboratory,F,Shihab Ahmed,S,11:11:AM,01:40:PM,1111,1340,['S'],1.0
+CSE 4412,Artificial Intelligence Laboratory,G,Shihab Ahmed,T,11:11:AM,01:40:PM,1111,1340,['T'],1.0
+CSE 4412,Artificial Intelligence Laboratory,H,Shihab Ahmed,W,11:11:AM,01:40:PM,1111,1340,['W'],1.0
+CSE 4421,Digital Image Processing,A,Md. Muhyminul Haque,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+CSE 4421,Digital Image Processing,B,Md. Muhyminul Haque,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 4421,Digital Image Processing,C,Md. Muhyminul Haque,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 4421,Digital Image Processing,D,Md. Muhyminul Haque,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+CSE 4421,Digital Image Processing,E,Md. Muhyminul Haque,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+CSE 4421,Digital Image Processing,F,Md. Muhyminul Haque,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+CSE 4422,Digital Image Processing Laboratory,A,Md. Muhyminul Haque,W,02:00:PM,04:30:PM,1400,1630,['W'],1.0
+CSE 4422,Digital Image Processing Laboratory,B,Md. Muhyminul Haque,T,02:00:PM,04:30:PM,1400,1630,['T'],1.0
+CSE 4422,Digital Image Processing Laboratory,C,Md. Muhyminul Haque,S,02:00:PM,04:30:PM,1400,1630,['S'],1.0
+CSE 4523,Mobile Application Development,A,Md. Irfanur Rahman Rafio,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+CSE 4523,Mobile Application Development,B,Md. Irfanur Rahman Rafio,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 4523,Mobile Application Development,C,Md. Irfanur Rahman Rafio,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 4523,Mobile Application Development,D,Md. Irfanur Rahman Rafio,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+CSE 4523,Mobile Application Development,E,Md. Irfanur Rahman Rafio,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+CSE 4523,Mobile Application Development,F,Md. Irfanur Rahman Rafio,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+CSE 4524,Mobile Application Development Laboratory,A,Md. Irfanur Rahman Rafio,T,02:00:PM,04:30:PM,1400,1630,['T'],1.0
+CSE 4524,Mobile Application Development Laboratory,B,Md. Irfanur Rahman Rafio,W,02:00:PM,04:30:PM,1400,1630,['W'],1.0
+CSE 4524,Mobile Application Development Laboratory,C,Md. Irfanur Rahman Rafio,S,02:00:PM,04:30:PM,1400,1630,['S'],1.0
+CSE 4524,Mobile Application Development Laboratory,D,Md. Irfanur Rahman Rafio,U,02:00:PM,04:30:PM,1400,1630,['U'],1.0
+CSE 4531,Web Programming,A,Shahil Yasar Haque,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+CSE 4531,Web Programming,B,Shahil Yasar Haque,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 4531,Web Programming,C,Shahil Yasar Haque,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 4531,Web Programming,D,Shahil Yasar Haque,S,12:31:PM,01:50:PM,1231,1350,['S'],3.0
+CSE 4531,Web Programming,E,Shahil Yasar Haque,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+CSE 4531,Web Programming,F,Shahil Yasar Haque,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+CSE 4531,Web Programming,G,Shahil Yasar Haque,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+CSE 4531,Web Programming,H,Shahil Yasar Haque,U,12:31:PM,01:50:PM,1231,1350,['U'],3.0
+CSE 4532,Web Programming Laboratory,A,Shahil Yasar Haque,T,08:30:AM,11:00:AM,830,1100,['T'],1.0
+CSE 4532,Web Programming Laboratory,B,Shahil Yasar Haque,W,08:30:AM,11:00:AM,830,1100,['W'],1.0
+CSE 4532,Web Programming Laboratory,C,Shahil Yasar Haque,S,02:00:PM,04:30:PM,1400,1630,['S'],1.0
+CSE 4532,Web Programming Laboratory,D,Shahil Yasar Haque,U,02:00:PM,04:30:PM,1400,1630,['U'],1.0
+CSE 4611,Computer Graphics,A,Tonmoy Saha,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+CSE 4611,Computer Graphics,B,Tonmoy Saha,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 4611,Computer Graphics,C,Tonmoy Saha,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 4611,Computer Graphics,D,Tonmoy Saha,S,12:31:PM,01:50:PM,1231,1350,['S'],3.0
+CSE 4611,Computer Graphics,E,Tonmoy Saha,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+CSE 4611,Computer Graphics,F,Tonmoy Saha,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+CSE 4611,Computer Graphics,G,Tonmoy Saha,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+CSE 4611,Computer Graphics,H,Tonmoy Saha,U,12:31:PM,01:50:PM,1231,1350,['U'],3.0
+CSE 4612,Computer Graphics Laboratory,A,Tonmoy Saha,W,02:00:PM,04:30:PM,1400,1630,['W'],1.0
+CSE 4612,Computer Graphics Laboratory,B,Tonmoy Saha,T,02:00:PM,04:30:PM,1400,1630,['T'],1.0
+CSE 4612,Computer Graphics Laboratory,C,Tonmoy Saha,S,02:00:PM,04:30:PM,1400,1630,['S'],1.0
+CSE 4612,Computer Graphics Laboratory,D,Tonmoy Saha,U,02:00:PM,04:30:PM,1400,1630,['U'],1.0
+CSE 4713,Cryptography,A,Mohammad Nurul Huda,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+CSE 4713,Cryptography,B,Mohammad Nurul Huda,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 4713,Cryptography,C,Mohammad Nurul Huda,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 4713,Cryptography,D,Mohammad Nurul Huda,S,12:31:PM,01:50:PM,1231,1350,['S'],3.0
+CSE 4713,Cryptography,E,Mohammad Nurul Huda,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+CSE 4713,Cryptography,F,Mohammad Nurul Huda,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+CSE 4713,Cryptography,G,Mohammad Nurul Huda,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+CSE 4713,Cryptography,H,Mohammad Nurul Huda,U,12:31:PM,01:50:PM,1231,1350,['U'],3.0
+CSE 4714,Cryptography Laboratory,A,Mohammad Nurul Huda,W,02:00:PM,04:30:PM,1400,1630,['W'],1.0
+CSE 4714,Cryptography Laboratory,B,Mohammad Nurul Huda,T,02:00:PM,04:30:PM,1400,1630,['T'],1.0
+CSE 4714,Cryptography Laboratory,C,Mohammad Nurul Huda,S,02:00:PM,04:30:PM,1400,1630,['S'],1.0
+CSE 4714,Cryptography Laboratory,D,Mohammad Nurul Huda,U,02:00:PM,04:30:PM,1400,1630,['U'],1.0
+CSE 4721,Network Security,A,Sanjida Ferdous,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+CSE 4721,Network Security,B,Sanjida Ferdous,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 4721,Network Security,C,Sanjida Ferdous,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 4721,Network Security,D,Sanjida Ferdous,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+CSE 4721,Network Security,E,Sanjida Ferdous,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+CSE 4721,Network Security,F,Sanjida Ferdous,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+CSE 4722,Network Security Laboratory,A,Sanjida Ferdous,T,02:00:PM,04:30:PM,1400,1630,['T'],1.0
+CSE 4722,Network Security Laboratory,B,Sanjida Ferdous,W,02:00:PM,04:30:PM,1400,1630,['W'],1.0
+CSE 4722,Network Security Laboratory,C,Sanjida Ferdous,S,02:00:PM,04:30:PM,1400,1630,['S'],1.0
+CSE 4722,Network Security Laboratory,D,Sanjida Ferdous,U,02:00:PM,04:30:PM,1400,1630,['U'],1.0
+CSE 4811,Simulation and Modeling,A,Charles Aunkan Gomes,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+CSE 4811,Simulation and Modeling,B,Charles Aunkan Gomes,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 4811,Simulation and Modeling,C,Charles Aunkan Gomes,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 4811,Simulation and Modeling,D,Charles Aunkan Gomes,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+CSE 4811,Simulation and Modeling,E,Charles Aunkan Gomes,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+CSE 4811,Simulation and Modeling,F,Charles Aunkan Gomes,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+CSE 4812,Simulation and Modeling Laboratory,A,Charles Aunkan Gomes,W,02:00:PM,04:30:PM,1400,1630,['W'],1.0
+CSE 4812,Simulation and Modeling Laboratory,B,Charles Aunkan Gomes,T,02:00:PM,04:30:PM,1400,1630,['T'],1.0
+CSE 4812,Simulation and Modeling Laboratory,C,Charles Aunkan Gomes,S,02:00:PM,04:30:PM,1400,1630,['S'],1.0
+CSE 4812,Simulation and Modeling Laboratory,D,Charles Aunkan Gomes,U,02:00:PM,04:30:PM,1400,1630,['U'],1.0
+CSE 4821,Distributed System,A,Abdullah Ibne Masud Mahi,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+CSE 4821,Distributed System,B,Abdullah Ibne Masud Mahi,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 4821,Distributed System,C,Abdullah Ibne Masud Mahi,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 4821,Distributed System,D,Abdullah Ibne Masud Mahi,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+CSE 4821,Distributed System,E,Abdullah Ibne Masud Mahi,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+CSE 4821,Distributed System,F,Abdullah Ibne Masud Mahi,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+CSE 4822,Distributed System Laboratory,A,Abdullah Ibne Masud Mahi,W,02:00:PM,04:30:PM,1400,1630,['W'],1.0
+CSE 4822,Distributed System Laboratory,B,Abdullah Ibne Masud Mahi,T,02:00:PM,04:30:PM,1400,1630,['T'],1.0
+CSE 4822,Distributed System Laboratory,C,Abdullah Ibne Masud Mahi,S,02:00:PM,04:30:PM,1400,1630,['S'],1.0
+CSE 4822,Distributed System Laboratory,D,Abdullah Ibne Masud Mahi,U,02:00:PM,04:30:PM,1400,1630,['U'],1.0
+DS 2121,Introduction to Data Science,A,Azizur Rahman Anik,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+DS 2121,Introduction to Data Science,B,Azizur Rahman Anik,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+DS 2121,Introduction to Data Science,C,Azizur Rahman Anik,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+DS 2121,Introduction to Data Science,D,Azizur Rahman Anik,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+DS 2121,Introduction to Data Science,E,Azizur Rahman Anik,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+DS 2121,Introduction to Data Science,F,Azizur Rahman Anik,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+DS 2122,Introduction to Data Science Laboratory,A,Azizur Rahman Anik,W,08:30:AM,11:00:AM,830,1100,['W'],1.0
+DS 2122,Introduction to Data Science Laboratory,B,Azizur Rahman Anik,T,08:30:AM,11:00:AM,830,1100,['T'],1.0
+DS 2122,Introduction to Data Science Laboratory,C,Azizur Rahman Anik,S,02:00:PM,04:30:PM,1400,1630,['S'],1.0
+DS 2122,Introduction to Data Science Laboratory,D,Azizur Rahman Anik,U,02:00:PM,04:30:PM,1400,1630,['U'],1.0
+DS 2122,Introduction to Data Science Laboratory,E,Azizur Rahman Anik,W,11:11:AM,01:40:PM,1111,1340,['W'],1.0
+DS 2122,Introduction to Data Science Laboratory,F,Azizur Rahman Anik,T,11:11:AM,01:40:PM,1111,1340,['T'],1.0
+DS 2122,Introduction to Data Science Laboratory,G,Azizur Rahman Anik,S,08:30:AM,11:00:AM,830,1100,['S'],1.0
+DS 2122,Introduction to Data Science Laboratory,H,Azizur Rahman Anik,U,11:11:AM,01:40:PM,1111,1340,['U'],1.0
+DS 3120,Technical Report Writing and Presentation,BA,Jannatun Noor Mukta,S,11:11:AM,01:40:PM,1111,1340,['S'],2.0
+DS 3120,Technical Report Writing and Presentation,BB,Jannatun Noor Mukta,T,11:11:AM,01:40:PM,1111,1340,['T'],2.0
+DS 3521,Data Visualization,BA,Shihab Ahmed,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+DS 3521,Data Visualization,BA,Shihab Ahmed,W,11:11:AM,01:40:PM,1111,1340,['W'],3.0
+DS 3522,Data Visualization Laboratory,BA,Shihab Ahmed,U,02:00:PM,04:30:PM,1400,1630,['U'],1.0
+DS 3885,Data Wrangling,BA,A.H.M. Osama Haque,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+DS 3885,Data Wrangling,BA,A.H.M. Osama Haque,W,08:30:AM,09:50:AM,830,950,['W'],3.0
+DS 4523,Simulation and Modeling,BA,Tahmid Mosaddeque,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+DS 4523,Simulation and Modeling,BA,Tahmid Mosaddeque,T,08:30:AM,09:50:AM,830,950,['T'],3.0
+DS 4889,Machine Learning,BA,A.H.M. Osama Haque,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+DS 4889,Machine Learning,BA,A.H.M. Osama Haque,T,09:51:AM,11:10:AM,951,1110,['T'],3.0
+DS 4889,Machine Learning,BB,A.H.M. Osama Haque,U,03:11:PM,04:30:PM,1511,1630,['U'],3.0
+DS 4889,Machine Learning,BB,A.H.M. Osama Haque,W,03:11:PM,04:30:PM,1511,1630,['W'],3.0
+DS 4891,Data Analytics,BA,Azizur Rahman Anik,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+DS 4891,Data Analytics,BA,Azizur Rahman Anik,W,08:30:AM,09:50:AM,830,950,['W'],3.0
+DS 4892,Data Analytics Laboratory,BA,Azizur Rahman Anik,U,11:11:AM,01:40:PM,1111,1340,['U'],1.0
+ENG 1201,English Language I: Listening and Speaking,A,Afia Tasnim Orpita,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+ENG 1201,English Language I: Listening and Speaking,B,Md. Saiful Islam,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+ENG 1201,English Language I: Listening and Speaking,C,Md. Saiful Islam,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+ENG 1201,English Language I: Listening and Speaking,D,Afia Tasnim Orpita,U,12:31:PM,01:50:PM,1231,1350,['U'],3.0
+ENG 1201,English Language I: Listening and Speaking,E,Afia Tasnim Orpita,U,01:51:PM,03:10:PM,1351,1510,['U'],3.0
+ENG 1201,English Language I: Listening and Speaking,F,Md. Saiful Islam,U,03:11:PM,04:30:PM,1511,1630,['U'],3.0
+ENG 1202,English Language II: Reading and Writing,A,Md. Saiful Islam,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+ENG 1202,English Language II: Reading and Writing,B,Afia Tasnim Orpita,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+ENG 1202,English Language II: Reading and Writing,C,Afia Tasnim Orpita,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+ENG 1202,English Language II: Reading and Writing,D,Md. Saiful Islam,S,12:31:PM,01:50:PM,1231,1350,['S'],3.0
+ENG 1202,English Language II: Reading and Writing,E,Md. Saiful Islam,S,01:51:PM,03:10:PM,1351,1510,['S'],3.0
+ENG 1202,English Language II: Reading and Writing,F,Afia Tasnim Orpita,S,03:11:PM,04:30:PM,1511,1630,['S'],3.0
+MGT 2111,Principles of Management,A,Israt Jabin,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+MGT 2111,Principles of Management,C,Israt Jabin,S,03:11:PM,04:30:PM,1511,1630,['S'],3.0
+MGT 2111,Principles of Management,B,Israt Jabin,T,09:51:AM,11:10:AM,951,1110,['T'],3.0
+MAT 1105,Calculus and Coordinate Geometry,A,Jarin Tasnim,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+MAT 1105,Calculus and Coordinate Geometry,B,Jarin Tasnim,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+MAT 1105,Calculus and Coordinate Geometry,C,Jarin Tasnim,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+MAT 1105,Calculus and Coordinate Geometry,D,Jarin Tasnim,S,12:31:PM,01:50:PM,1231,1350,['S'],3.0
+MAT 1105,Calculus and Coordinate Geometry,E,Jarin Tasnim,S,01:51:PM,03:10:PM,1351,1510,['S'],3.0
+MAT 1105,Calculus and Coordinate Geometry,F,S M Jishanul Islam,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+MAT 1105,Calculus and Coordinate Geometry,G,S M Jishanul Islam,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+MAT 1105,Calculus and Coordinate Geometry,H,S M Jishanul Islam,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+MAT 1105,Calculus and Coordinate Geometry,I,S M Jishanul Islam,U,12:31:PM,01:50:PM,1231,1350,['U'],3.0
+MAT 1105,Calculus and Coordinate Geometry,J,S M Jishanul Islam,U,01:51:PM,03:10:PM,1351,1510,['U'],3.0
+MAT 1205,Linear Algebra and Differential Equations,A,Mohammed Jawwadul Islam,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+MAT 1205,Linear Algebra and Differential Equations,B,Mohammed Jawwadul Islam,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+MAT 1205,Linear Algebra and Differential Equations,C,Mohammed Jawwadul Islam,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+MAT 1205,Linear Algebra and Differential Equations,D,Mohammed Jawwadul Islam,S,12:31:PM,01:50:PM,1231,1350,['S'],3.0
+MAT 1205,Linear Algebra and Differential Equations,E,Mohammed Jawwadul Islam,S,01:51:PM,03:10:PM,1351,1510,['S'],3.0
+MAT 1205,Linear Algebra and Differential Equations,F,Jarin Tasnim,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+MAT 1205,Linear Algebra and Differential Equations,G,Jarin Tasnim,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+MAT 1205,Linear Algebra and Differential Equations,H,Jarin Tasnim,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+MAT 1205,Linear Algebra and Differential Equations,I,Jarin Tasnim,U,12:31:PM,01:50:PM,1231,1350,['U'],3.0
+MAT 1205,Linear Algebra and Differential Equations,J,Jarin Tasnim,U,01:51:PM,03:10:PM,1351,1510,['U'],3.0
+MAT 2105,Complex Variable, Statistics and Probability,A,Md. Benzir Ahmed,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+MAT 2105,Complex Variable, Statistics and Probability,B,Md. Benzir Ahmed,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+MAT 2105,Complex Variable, Statistics and Probability,C,Md. Benzir Ahmed,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+MAT 2105,Complex Variable, Statistics and Probability,D,Md. Benzir Ahmed,S,12:31:PM,01:50:PM,1231,1350,['S'],3.0
+MAT 2105,Complex Variable, Statistics and Probability,E,Md. Benzir Ahmed,S,01:51:PM,03:10:PM,1351,1510,['S'],3.0
+MAT 2105,Complex Variable, Statistics and Probability,F,Mohammed Jawwadul Islam,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+MAT 2105,Complex Variable, Statistics and Probability,G,Mohammed Jawwadul Islam,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+MAT 2105,Complex Variable, Statistics and Probability,H,Mohammed Jawwadul Islam,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+MAT 2105,Complex Variable, Statistics and Probability,I,Mohammed Jawwadul Islam,U,12:31:PM,01:50:PM,1231,1350,['U'],3.0
+MAT 2105,Complex Variable, Statistics and Probability,J,Mohammed Jawwadul Islam,U,01:51:PM,03:10:PM,1351,1510,['U'],3.0
+PHY 1105,Physics I,A,Nahid Tamanna,S,08:30:AM,09:50:AM,830,950,['S'],3.0
+PHY 1105,Physics I,B,Nahid Tamanna,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+PHY 1105,Physics I,C,Nahid Tamanna,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+PHY 1105,Physics I,D,Nahid Tamanna,S,12:31:PM,01:50:PM,1231,1350,['S'],3.0
+PHY 1105,Physics I,E,Nahid Tamanna,S,01:51:PM,03:10:PM,1351,1510,['S'],3.0
+PHY 1105,Physics I,F,Nahid Tamanna,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+PHY 1105,Physics I,G,Nahid Tamanna,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+PHY 1105,Physics I,H,Nahid Tamanna,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+PHY 1105,Physics I,I,Nahid Tamanna,U,12:31:PM,01:50:PM,1231,1350,['U'],3.0
+PHY 1105,Physics I,J,Nahid Tamanna,U,01:51:PM,03:10:PM,1351,1510,['U'],3.0
+PHY 1106,Physics I Laboratory,A,Nahid Tamanna,W,11:11:AM,01:40:PM,1111,1340,['W'],1.0
+PHY 1106,Physics I Laboratory,B,Nahid Tamanna,T,11:11:AM,01:40:PM,1111,1340,['T'],1.0
+PHY 1106,Physics I Laboratory,C,Nahid Tamanna,S,11:11:AM,01:40:PM,1111,1340,['S'],1.0
+PHY 1106,Physics I Laboratory,D,Nahid Tamanna,U,11:11:AM,01:40:PM,1111,1340,['U'],1.0
+PHY 1106,Physics I Laboratory,E,Nahid Tamanna,W,02:00:PM,04:30:PM,1400,1630,['W'],1.0
+PHY 1106,Physics I Laboratory,F,Nahid Tamanna,T,02:00:PM,04:30:PM,1400,1630,['T'],1.0
+PHY 1106,Physics I Laboratory,G,Nahid Tamanna,S,02:00:PM,04:30:PM,1400,1630,['S'],1.0
+PHY 1106,Physics I Laboratory,H,Nahid Tamanna,U,02:00:PM,04:30:PM,1400,1630,['U'],1.0
+STA 1105,Basic Statistics,A,Rubaiya Rahtin Khan,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+STA 1105,Basic Statistics,B,Rubaiya Rahtin Khan,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+STA 1105,Basic Statistics,C,Rubaiya Rahtin Khan,U,12:31:PM,01:50:PM,1231,1350,['U'],3.0
+STA 1105,Basic Statistics,D,Rubaiya Rahtin Khan,U,01:51:PM,03:10:PM,1351,1510,['U'],3.0
+STA 1105,Basic Statistics,E,Rubaiya Rahtin Khan,U,03:11:PM,04:30:PM,1511,1630,['U'],3.0
+ACT 2111,Financial and Managerial Accounting,B,Israt Jabin,T,09:51:AM,11:10:AM,951,1110,['T'],3.0
+ACT 2111,Financial and Managerial Accounting,C,Ishrat Jahan,W,03:11:PM,04:30:PM,1511,1630,['W'],3.0
+ACT 2111,Financial and Managerial Accounting,A,Ishrat Jahan,T,09:51:AM,11:10:AM,951,1110,['T'],3.0
+BDS 1201,History of the Emergence of Bangladesh,AC,Al Jamal Mustafa Shindaini,T,08:30:AM,09:50:AM,830,950,['T'],2.0
+BDS 1201,History of the Emergence of Bangladesh,AD,Mabia Momen,W,08:30:AM,09:50:AM,830,950,['W'],2.0
+BDS 1201,History of the Emergence of Bangladesh,AE,Md. Ashraf Aziz Ishrak Fahim,W,01:51:PM,03:10:PM,1351,1510,['W'],2.0
+BDS 1201,History of the Emergence of Bangladesh,AF,Nazmul Huda,T,11:11:AM,12:30:PM,1111,1230,['T'],2.0
+BDS 1201,History of the Emergence of Bangladesh,AG,Nazmul Huda,T,12:31:PM,01:50:PM,1231,1350,['T'],2.0
+BDS 1201,History of the Emergence of Bangladesh,AH,Md. Ashraf Aziz Ishrak Fahim,W,03:11:PM,04:30:PM,1511,1630,['W'],2.0
+BDS 1201,History of the Emergence of Bangladesh,AA,Al Jamal Mustafa Shindaini,T,09:51:AM,11:10:AM,951,1110,['T'],2.0
+BDS 1201,History of the Emergence of Bangladesh,AB,Mabia Momen,W,09:51:AM,11:10:AM,951,1110,['W'],2.0
+BIO 3105,Biology for Engineers,G,Mobashara Islam,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+CSE 2215,Data Structure and Algorithms I,V,Md. Sajjad Hossain,T,08:30:AM,09:50:AM,830,950,['T'],3.0
+CSE 2215,Data Structure and Algorithms I,X,Md. Sajjad Hossain,T,11:11:AM,12:30:PM,1111,1230,['T'],3.0
+CSE 2215,Data Structure and Algorithms I,AF,Md. Abul Kashem Mia,R,11:11:AM,01:40:PM,1111,1340,['R'],3.0
+CSE 3885,Software Engineering,A,A.H.M. Osama Haque,T,09:51:AM,11:10:AM,951,1110,['T'],3.0
+CSE 3885,Software Engineering,B,A.H.M. Osama Haque,T,11:11:AM,12:30:PM,1111,1230,['T'],3.0
+CSE 3885,Software Engineering,C,A.H.M. Osama Haque,T,12:31:PM,01:50:PM,1231,1350,['T'],3.0
+CSE 4811,Simulation and Modeling,A,Charles Aunkan Gomes,W,08:30:AM,09:50:AM,830,950,['W'],3.0
+CSE 4811,Simulation and Modeling,B,Charles Aunkan Gomes,W,09:51:AM,11:10:AM,951,1110,['W'],3.0
+CSE 4811,Simulation and Modeling,C,Charles Aunkan Gomes,W,11:11:AM,12:30:PM,1111,1230,['W'],3.0
+CSE 4821,Distributed System,A,Abdullah Ibne Masud Mahi,W,08:30:AM,09:50:AM,830,950,['W'],3.0
+CSE 4821,Distributed System,B,Abdullah Ibne Masud Mahi,W,09:51:AM,11:10:AM,951,1110,['W'],3.0
+CSE 4821,Distributed System,C,Abdullah Ibne Masud Mahi,W,11:11:AM,12:30:PM,1111,1230,['W'],3.0
+DS 3521,Data Visualization,BA,Shihab Ahmed,U,11:11:AM,12:30:PM,1111,1230,['U'],3.0
+DS 3885,Data Wrangling,BA,A.H.M. Osama Haque,U,08:30:AM,09:50:AM,830,950,['U'],3.0
+DS 4523,Simulation and Modeling,BA,Tahmid Mosaddeque,T,08:30:AM,09:50:AM,830,950,['T'],3.0
+DS 4889,Machine Learning,BA,A.H.M. Osama Haque,T,09:51:AM,11:10:AM,951,1110,['T'],3.0
+DS 4889,Machine Learning,BB,A.H.M. Osama Haque,W,03:11:PM,04:30:PM,1511,1630,['W'],3.0
+DS 4891,Data Analytics,BA,Azizur Rahman Anik,W,08:30:AM,09:50:AM,830,950,['W'],3.0
+MGT 2111,Principles of Management,A,Israt Jabin,W,09:51:AM,11:10:AM,951,1110,['W'],3.0
+MGT 2111,Principles of Management,C,Israt Jabin,T,03:11:PM,04:30:PM,1511,1630,['T'],3.0
+MGT 2111,Principles of Management,B,Israt Jabin,R,09:51:AM,11:10:AM,951,1110,['R'],3.0
+ACT 2111,Financial and Managerial Accounting,C,Ishrat Jahan,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+ACT 2111,Financial and Managerial Accounting,A,Ishrat Jahan,U,09:51:AM,11:10:AM,951,1110,['U'],3.0
+BDS 1201,History of the Emergence of Bangladesh,AC,Al Jamal Mustafa Shindaini,S,08:30:AM,09:50:AM,830,950,['S'],2.0
+BDS 1201,History of the Emergence of Bangladesh,AD,Mabia Momen,U,08:30:AM,09:50:AM,830,950,['U'],2.0
+BDS 1201,History of the Emergence of Bangladesh,AE,Md. Ashraf Aziz Ishrak Fahim,U,01:51:PM,03:10:PM,1351,1510,['U'],2.0
+BDS 1201,History of the Emergence of Bangladesh,AF,Nazmul Huda,S,11:11:AM,12:30:PM,1111,1230,['S'],2.0
+BDS 1201,History of the Emergence of Bangladesh,AG,Nazmul Huda,S,12:31:PM,01:50:PM,1231,1350,['S'],2.0
+BDS 1201,History of the Emergence of Bangladesh,AH,Md. Ashraf Aziz Ishrak Fahim,U,03:11:PM,04:30:PM,1511,1630,['U'],2.0
+BDS 1201,History of the Emergence of Bangladesh,AA,Al Jamal Mustafa Shindaini,S,09:51:AM,11:10:AM,951,1110,['S'],2.0
+BDS 1201,History of the Emergence of Bangladesh,AB,Mabia Momen,U,09:51:AM,11:10:AM,951,1110,['U'],2.0
+BIO 3105,Biology for Engineers,G,Mobashara Islam,W,08:30:AM,09:50:AM,830,950,['W'],3.0
+CSE 2215,Data Structure and Algorithms I,V,Md. Sajjad Hossain,R,08:30:AM,09:50:AM,830,950,['R'],3.0
+CSE 2215,Data Structure and Algorithms I,X,Md. Sajjad Hossain,R,11:11:AM,12:30:PM,1111,1230,['R'],3.0
+CSE 3885,Software Engineering,D,Md. Zunaid-Ul-Alam,S,09:51:AM,11:10:AM,951,1110,['S'],3.0
+CSE 3885,Software Engineering,E,Md. Zunaid-Ul-Alam,S,11:11:AM,12:30:PM,1111,1230,['S'],3.0
+CSE 3885,Software Engineering,F,Md. Zunaid-Ul-Alam,S,12:31:PM,01:50:PM,1231,1350,['S'],3.0
+CSE 4811,Simulation and Modeling,D,Charles Aunkan Gomes,W,08:30:AM,09:50:AM,830,950,['W'],3.0
+CSE 4811,Simulation and Modeling,E,Charles Aunkan Gomes,W,09:51:AM,11:10:AM,951,1110,['W'],3.0
+CSE 4811,Simulation and Modeling,F,Charles Aunkan Gomes,W,11:11:AM,12:30:PM,1111,1230,['W'],3.0
+CSE 4821,Distributed System,D,Abdullah Ibne Masud Mahi,W,08:30:AM,09:50:AM,830,950,['W'],3.0
+CSE 4821,Distributed System,E,Abdullah Ibne Masud Mahi,W,09:51:AM,11:10:AM,951,1110,['W'],3.0
+CSE 4821,Distributed System,F,Abdullah Ibne Masud Mahi,W,11:11:AM,12:30:PM,1111,1230,['W'],3.0
+DS 3521,Data Visualization,BA,Shihab Ahmed,W,11:11:AM,12:30:PM,1111,1230,['W'],3.0
+DS 3885,Data Wrangling,BA,A.H.M. Osama Haque,W,08:30:AM,09:50:AM,830,950,['W'],3.0
+DS 4523,Simulation and Modeling,BA,Tahmid Mosaddeque,T,08:30:AM,09:50:AM,830,950,['T'],3.0
+DS 4889,Machine Learning,BA,A.H.M. Osama Haque,T,09:51:AM,11:10:AM,951,1110,['T'],3.0
+DS 4889,Machine Learning,BB,A.H.M. Osama Haque,W,03:11:PM,04:30:PM,1511,1630,['W'],3.0
+DS 4891,Data Analytics,BA,Azizur Rahman Anik,W,08:30:AM,09:50:AM,830,950,['W'],3.0
+MGT 2111,Principles of Management,A,Israt Jabin,W,09:51:AM,11:10:AM,951,1110,['W'],3.0
+MGT 2111,Principles of Management,C,Israt Jabin,T,03:11:PM,04:30:PM,1511,1630,['T'],3.0
+MAT 1205,Linear Algebra and Differential Equations,A,Mohammed Jawwadul Islam,W,08:30:AM,09:50:AM,830,950,['W'],3.0
+MAT 1205,Linear Algebra and Differential Equations,B,Mohammed Jawwadul Islam,W,09:51:AM,11:10:AM,951,1110,['W'],3.0
+MAT 1205,Linear Algebra and Differential Equations,C,Mohammed Jawwadul Islam,W,11:11:AM,12:30:PM,1111,1230,['W'],3.0
+MAT 1205,Linear Algebra and Differential Equations,D,Mohammed Jawwadul Islam,W,12:31:PM,01:50:PM,1231,1350,['W'],3.0
+MAT 1205,Linear Algebra and Differential Equations,E,Mohammed Jawwadul Islam,W,01:51:PM,03:10:PM,1351,1510,['W'],3.0
+MAT 2105,Complex Variable, Statistics and Probability,A,Md. Benzir Ahmed,W,08:30:AM,09:50:AM,830,950,['W'],3.0
+MAT 2105,Complex Variable, Statistics and Probability,B,Md. Benzir Ahmed,W,09:51:AM,11:10:AM,951,1110,['W'],3.0
+MAT 2105,Complex Variable, Statistics and Probability,C,Md. Benzir Ahmed,W,11:11:AM,12:30:PM,1111,1230,['W'],3.0
+MAT 2105,Complex Variable, Statistics and Probability,D,Md. Benzir Ahmed,W,12:31:PM,01:50:PM,1231,1350,['W'],3.0
+MAT 2105,Complex Variable, Statistics and Probability,E,Md. Benzir Ahmed,W,01:51:PM,03:10:PM,1351,1510,['W'],3.0
+PHY 1105,Physics I,A,Nahid Tamanna,W,08:30:AM,09:50:AM,830,950,['W'],3.0
+PHY 1105,Physics I,B,Nahid Tamanna,W,09:51:AM,11:10:AM,951,1110,['W'],3.0
+PHY 1105,Physics I,C,Nahid Tamanna,W,11:11:AM,12:30:PM,1111,1230,['W'],3.0
+PHY 1105,Physics I,D,Nahid Tamanna,W,12:31:PM,01:50:PM,1231,1350,['W'],3.0
+PHY 1105,Physics I,E,Nahid Tamanna,W,01:51:PM,03:10:PM,1351,1510,['W'],3.0
+PHY 1105,Physics I,F,Nahid Tamanna,T,08:30:AM,09:50:AM,830,950,['T'],3.0
+PHY 1105,Physics I,G,Nahid Tamanna,T,09:51:AM,11:10:AM,951,1110,['T'],3.0
+PHY 1105,Physics I,H,Nahid Tamanna,T,11:11:AM,12:30:PM,1111,1230,['T'],3.0
+PHY 1105,Physics I,I,Nahid Tamanna,T,12:31:PM,01:50:PM,1231,1350,['T'],3.0
+PHY 1105,Physics I,J,Nahid Tamanna,T,01:51:PM,03:10:PM,1351,1510,['T'],3.0
